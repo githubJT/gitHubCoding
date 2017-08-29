@@ -5,6 +5,7 @@ in] view plaincopy
 *.sln  
 *.config 
 *.DS_Store
+*.xcuserstate
 
 #过滤文件夹Debug,Release,obj  
 Debug/  
